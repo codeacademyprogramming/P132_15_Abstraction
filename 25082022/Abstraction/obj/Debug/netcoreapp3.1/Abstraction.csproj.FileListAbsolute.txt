@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\15. 25-08-2022\25082022\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.exe
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\15. 25-08-2022\25082022\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\15. 25-08-2022\25082022\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\15. 25-08-2022\25082022\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\15. 25-08-2022\25082022\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.dll
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\15. 25-08-2022\25082022\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\15. 25-08-2022\25082022\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\15. 25-08-2022\25082022\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\15. 25-08-2022\25082022\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\15. 25-08-2022\25082022\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\15. 25-08-2022\25082022\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\15. 25-08-2022\25082022\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.dll
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\15. 25-08-2022\25082022\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\15. 25-08-2022\25082022\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.genruntimeconfig.cache

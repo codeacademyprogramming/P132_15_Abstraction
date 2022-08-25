@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "84de6366-dd24-4473-be61-547383c2751f": {
+      "ProjectGuid": "84de6366-dd24-4473-be61-547383c2751f",
+      "DisplayName": "Lesson1",
+      "ColorIndex": 0
+    },
+    "900c4a23-af00-4a7a-82e6-e1e2877ec8f4": {
+      "ProjectGuid": "900c4a23-af00-4a7a-82e6-e1e2877ec8f4",
+      "DisplayName": "Abstraction",
+      "ColorIndex": 1
+    },
+    "55833749-d85f-4918-bc6f-ebeeccbbe3fd": {
+      "ProjectGuid": "55833749-d85f-4918-bc6f-ebeeccbbe3fd",
+      "DisplayName": "Interfaces",
+      "ColorIndex": 2
+    },
+    "d587cd06-8bec-4865-ad87-4dd65997015e": {
+      "ProjectGuid": "d587cd06-8bec-4865-ad87-4dd65997015e",
+      "DisplayName": "ClassLibrary",
+      "ColorIndex": 3
+    },
+    "0638a9eb-cf6b-4db3-ae13-ea465964f6da": {
+      "ProjectGuid": "0638a9eb-cf6b-4db3-ae13-ea465964f6da",
+      "DisplayName": "CompanyApp",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
